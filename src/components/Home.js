@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const Home = () => {
+function Home() {
   const navigate = useNavigate();
 
   return (
@@ -10,6 +10,6 @@ const Home = () => {
       <button type="button" onClick={() => { navigate('/greeting'); }}>View a greeting</button>
     </>
   );
-};
+}
 
 export default Home;

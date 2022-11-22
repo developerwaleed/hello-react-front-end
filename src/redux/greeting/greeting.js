@@ -1,6 +1,6 @@
 import GET_RANDOM_GREETING from '../actionTypes';
 
-const greeting = (state = {}, action) => {
+const greeting = (action, state = {}) => {
   switch (action.type) {
     case `${GET_RANDOM_GREETING}/fulfilled`:
       return action.payload;
