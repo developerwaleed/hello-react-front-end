@@ -79,7 +79,7 @@ This projects aim is to help me understand the key features of Consuming rails A
 
 ## 🚀 Back End (ROR) <a name="live-demo"></a>
 
-Click here to see the [front end repo](https://github.com/developerwaleed/Hello-rails-backend)
+Click here to see the [Back end repo](https://github.com/developerwaleed/Hello-rails-backend)
 
 
 <!-- LIVE DEMO -->
